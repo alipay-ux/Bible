@@ -15,3 +15,5 @@ Change Logs
 
 ![cross.hk Android版圣经](http://labs.cross.hk/wp-content/uploads/2013/01/cross.hk-Bible-for-android-v-1.0.png)
 
+* 2013-02-03在beta版做了大量的优化工作，包括loading的加速，代码的规范等
+
